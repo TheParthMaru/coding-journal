@@ -45,3 +45,25 @@
   - LC: 1.Two Sum
   - LC: 26.Remove duplicates from sorted array
 - Notes: <https://github.com/TheParthMaru/DSA/tree/main/notes/leetcode-problems-notes>
+
+## Day 6
+
+- Date: 13-05-24, Monday
+
+- Topics
+  - LC: 121.Best time to buy and sell stock
+  - LC: 485.Max consecutive ones
+- Notes: <https://github.com/TheParthMaru/DSA/tree/main/notes/leetcode-problems-notes>
+
+## Day 7
+
+- Date: 18-05-24, Saturday
+
+- Topics
+  - What are 2D arrays?
+  - Creating 2D arrays and Jagged arrays
+  - Internal memory representation of 2D arrays
+  - Q.Print 2D array row wise
+  - Q.Print 2D array column wise
+  - Q.Print 2D array in waveform
+- Notes: <https://github.com/TheParthMaru/DSA/tree/main/notes/02_arrays>
