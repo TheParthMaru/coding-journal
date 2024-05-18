@@ -27,3 +27,12 @@
   - Problems on space complexity.
   - Amortized analysis.
 - Notes: <https://github.com/TheParthMaru/DSA/tree/main/notes/01_time_%26_space_complexity>
+
+## Day 4
+
+- Date: 11-05-24, Saturday
+- Topics:
+  - Revised arrays.
+  - DNF algorithm.
+  - HOF (map, reduce, filter)
+- Notes: <https://github.com/TheParthMaru/DSA/tree/main/notes/02_arrays>
