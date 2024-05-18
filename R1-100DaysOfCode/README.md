@@ -36,3 +36,12 @@
   - DNF algorithm.
   - HOF (map, reduce, filter)
 - Notes: <https://github.com/TheParthMaru/DSA/tree/main/notes/02_arrays>
+
+## Day 5
+
+- Date: 13-05-24, Sunday
+
+- Topics
+  - LC: 1.Two Sum
+  - LC: 26.Remove duplicates from sorted array
+- Notes: <https://github.com/TheParthMaru/DSA/tree/main/notes/leetcode-problems-notes>
