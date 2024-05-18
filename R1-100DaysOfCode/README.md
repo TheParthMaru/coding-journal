@@ -39,7 +39,7 @@
 
 ## Day 5
 
-- Date: 13-05-24, Sunday
+- Date: 12-05-24, Sunday
 
 - Topics
   - LC: 1.Two Sum
