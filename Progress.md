@@ -13,6 +13,19 @@
 
   - Revised basic HTML
   - Links: [Notes](https://github.com/TheParthMaru/HTML-Notes)
+  </details>
 
-- Msc
+<!-- Day 02 -->
+<details>
+  <summary><b>Day 02: 02/10/24, Wednesday</b></summary>
+    
+- DSA
+  - Revised arrays
+  - Link: [Notes](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays/notes)
+  - Problems:
+    * 349. Intersection of Two Arrays (need to learn HashSet for optimized solution)
+    * 1480. Running Sum of 1d Array
+    * Sort binary array
+    * Merge two sorted arrays
+  - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays)
 </details>
