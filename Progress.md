@@ -29,3 +29,17 @@
     * Merge two sorted arrays
   - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays)
 </details>
+
+<!-- Day 03 -->
+<details>
+  <summary><b>Day 03: 04/10/24, Thursday</b></summary>
+    
+- DSA
+  - Problems:
+    * Add two arrays element wise
+    * 121. Best Time to Buy and Sell Stock
+    * 448. Find All Numbers Disappeared in an Array
+    * 485. Max Consecutive Ones
+    * 1. Two Sum
+  - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays)
+</details>
