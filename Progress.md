@@ -32,7 +32,7 @@
 
 <!-- Day 03 -->
 <details>
-  <summary><b>Day 03: 04/10/24, Thursday</b></summary>
+  <summary><b>Day 03: 04/10/24, Friday</b></summary>
     
 - DSA
   - Problems:
@@ -41,5 +41,16 @@
     * 448. Find All Numbers Disappeared in an Array
     * 485. Max Consecutive Ones
     * 1. Two Sum
+  - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays)
+</details>
+
+<!-- Day 04 -->
+<details>
+  <summary><b>Day 04: 05/10/24, Saturday</b></summary>
+    
+- DSA
+  - Problems:
+    * 136. Single Number
+    * 189. Rotate Array
   - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays)
 </details>
