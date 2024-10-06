@@ -54,3 +54,14 @@
     * 189. Rotate Array
   - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays)
 </details>
+
+<!-- Day 04 -->
+<details>
+  <summary><b>Day 05: 06/10/24, Sunday</b></summary>
+    
+- DSA
+  - Weekly revision
+  - Problems:
+    - 169. Majority element
+  - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays)
+</details>
