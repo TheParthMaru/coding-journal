@@ -86,3 +86,23 @@
   - Printing elements row wise and column wise
   - Printing elements in waveform
   - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/03_2D_arrays)
+</details>
+
+<!-- Day 07 -->
+<details>
+  <summary><b>Day 07: 15/10/24, Tuesday</b></summary>
+    
+- DSA
+  - Coded multiplication of matrix
+  - Solved leetcode 867 transpose matrix
+  - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/03_2D_arrays)
+
+- MSc
+  - Groovy language theory and use cases.
+  - Printing stuff in Groovy
+  - Comments
+  - Variables
+  - Scope
+  - String interpolation
+  - [Detailed notes](https://github.com/TheParthMaru/groovy-notes/blob/main/notes.md)
+  </details>
