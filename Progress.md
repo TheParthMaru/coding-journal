@@ -105,4 +105,27 @@
   - Scope
   - String interpolation
   - [Detailed notes](https://github.com/TheParthMaru/groovy-notes/blob/main/notes.md)
-  </details>
+</details>
+
+<!-- Day 08 -->
+<details>
+  <summary><b>Day 08: 21/10/24, Monday</b></summary>
+    
+- DSA
+  - Leetcode problems solved:
+    - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
+    - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)
+  - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/03_2D_arrays)
+
+- MSc
+  - Groovy
+    - Data types in groovy
+    - Operators
+    - Special operators (elvis operator, null safe operator, range operator, spread operator, spaceship operator)
+    - Conditionals
+    - Loops
+    - Collections in groovy
+    - List
+    - Maps
+  - [Detailed notes](https://github.com/TheParthMaru/groovy-notes/blob/main/notes.md)
+</details>
