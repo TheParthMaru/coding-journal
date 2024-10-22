@@ -129,3 +129,12 @@
     - Maps
   - [Detailed notes](https://github.com/TheParthMaru/groovy-notes/blob/main/notes.md)
 </details>
+
+<!-- Day 09 -->
+<details>
+  <summary><b>Day 09: 22/10/24, Tuesday</b></summary>
+    
+- DSA
+  - Leetcode problems solved:
+    - [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
+</details>
