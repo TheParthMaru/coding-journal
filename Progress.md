@@ -105,7 +105,7 @@
   - Scope
   - String interpolation
   - [Detailed notes](https://github.com/TheParthMaru/groovy-notes/blob/main/notes.md)
-</details>
+  </details>
 
 <!-- Day 08 -->
 <details>
@@ -128,7 +128,7 @@
     - List
     - Maps
   - [Detailed notes](https://github.com/TheParthMaru/groovy-notes/blob/main/notes.md)
-</details>
+  </details>
 
 <!-- Day 09 -->
 <details>
@@ -137,4 +137,7 @@
 - DSA
   - Leetcode problems solved:
     - [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
+    - [54. Spiral matrix](https://leetcode.com/problems/spiral-matrix/description/)
+
+- Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/03_2D_arrays)
 </details>
