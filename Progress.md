@@ -141,3 +141,15 @@
 
 - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/03_2D_arrays)
 </details>
+
+<!-- Day 10 -->
+<details>
+  <summary><b>Day 10: 26/10/24, Tuesday</b></summary>
+    
+- DSA
+  - Leetcode problems solved:
+    - [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
+    - [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
+
+- Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/03_2D_arrays)
+</details>
