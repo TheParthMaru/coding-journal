@@ -37,7 +37,7 @@
 - DSA
   - Problems:
     - Add two arrays element wise
-    - 121. Best Time to Buy and Sell Stock
+    - 121.Best Time to Buy and Sell Stock
     - 448. Find All Numbers Disappeared in an Array
     - 485. Max Consecutive Ones
     - 1. Two Sum
