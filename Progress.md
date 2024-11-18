@@ -153,3 +153,25 @@
 
 - Link: [Repo, notes and solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/03_2D_arrays)
 </details>
+
+<!-- Day 11 -->
+<details>
+  <summary><b>Day 11: 18/11/24, Monday</b></summary>
+    
+- DSA
+  - Strings
+  - StringBuilder
+  - StringBuffer
+
+- MSc
+
+  - CPP
+    - Address of operator
+    - Pointers
+    - De-reference operator
+    - Call by reference using Pointers
+    - Pointer arithmetic
+    - Arrays and Pointers
+    - Arrays as pointers
+
+</details>
