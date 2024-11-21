@@ -190,3 +190,26 @@
 - [Notes](https://github.com/TheParthMaru/cpp_notes/blob/main/pointers.pdf)
 
 </details>
+
+<!-- Day 13 -->
+<details>
+  <summary><b>Day 13: 21/11/24, Thursday</b></summary>
+
+- DSA:
+
+  - Leetcode problems solved:
+    - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+    - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+
+- MSc
+
+  - CPP
+    - Intro to OOP
+    - Creating classes and objects
+    - Constructors
+    - Types of constructors (default, paramaterized, copy)
+    - Desctructors
+
+- [DSA Link](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays)
+
+</details>
