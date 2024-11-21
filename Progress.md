@@ -175,3 +175,18 @@
     - Arrays as pointers
 
 </details>
+
+<!-- Day 12 -->
+<details>
+  <summary><b>Day 12: 19/11/24, Tuesday</b></summary>
+    
+- MSc
+  - CPP
+    - Wild pointer
+    - Dangling pointer
+    - Void pointer
+    - Null pointer
+
+- [Notes](https://github.com/TheParthMaru/cpp_notes/blob/main/pointers.pdf)
+
+</details>
