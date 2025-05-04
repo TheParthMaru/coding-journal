@@ -213,3 +213,30 @@
 - [DSA Link](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays)
 
 </details>
+
+<!-- God know what day -->
+<details>
+  <summary><b>03/05/2025, Saturday</b></summary>
+
+### Go
+
+- Learned about slices (dynamic arrays)
+- Creating slices from array and using shorthand.
+- Length vs capacity of a slice.
+- Appending elements to a slice.
+- Copying slices.
+- Reference type nature of slice.
+- Nil slice vs empty slice.
+- Learned about Maps.
+- Ways to create a map in go.
+- Adding key-value pairs.
+- Accessing key and values in a map.
+- Modifying values in a map.
+- Check if key exists in a map.
+- `delete` key.
+- Nil maps or a zero value of a map (immutable maps).
+- Nested maps.
+
+### DSA
+
+</details>
